@@ -1,4 +1,4 @@
-import "./poststyles.css"
+import "../Styles/poststyles.css"
 
 import ThumbUpAltIcon from '@mui/icons-material/ThumbUpAlt';
 import ThumbUpOffAltIcon from '@mui/icons-material/ThumbUpOffAlt';

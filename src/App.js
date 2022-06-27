@@ -1,9 +1,9 @@
 import Header from "./Components/Header"
 import Posts from "./Components/Posts.js"
 import Sidebar from "./Components/Sidebar.js"
-import "./appstyles.css"
+import "./Styles/appstyles.css"
 import Post from "./Components/Post";
-import { useEffect, useState } from "react";
+import {useState } from "react";
 
 function App() {
 

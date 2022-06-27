@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./postsstyles.css"
+import "../Styles/postsstyles.css"
 function Posts(props) {
     
 

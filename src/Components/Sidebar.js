@@ -1,6 +1,6 @@
 
 import { useState } from "react";
-import "./sidebarstyles.css"
+import "../Styles/sidebarstyles.css"
 
 function Sidebar(props) {
     const[title, settitle] = useState("")

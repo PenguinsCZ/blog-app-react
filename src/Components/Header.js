@@ -1,6 +1,5 @@
-import "./headerstyles.css"
+import "../Styles/headerstyles.css"
 import logo from "../Assets/logo.svg"
-import { useState } from "react"
 function Header(props) {
     
 
