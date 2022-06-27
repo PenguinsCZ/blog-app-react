@@ -1,0 +1,15 @@
+.basictext{
+    font-family: 'Roboto', sans-serif;
+}
+.margin10{
+    margin: 10px;
+}
+.h2{
+    font-size: 28px;
+}
+
+
+.Main{
+    display: flex;
+    
+}

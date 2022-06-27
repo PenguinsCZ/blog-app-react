@@ -1,0 +1,35 @@
+.App-header{
+    height: 70px;
+    width: 100%;
+    background-color:rgb(237, 106, 94);
+    display: flex;
+}
+.App-logo{
+    height: 70px;
+    position: absolute;
+    z-index: 1;
+}
+.Logodiv{
+    position: absolute;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 13px;
+}
+.Bloggit{
+    margin-left: 120px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 45px;
+}
+.Searchbar{
+    height: 25px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: 10px;
+    border: solid 1px black
+}
+.Searchbar:focus{
+    
+    border-radius: 10px;
+}

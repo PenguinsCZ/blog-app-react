@@ -1,0 +1,27 @@
+.sidebar{
+    width: 200px;
+    height: 700px;
+    background-color: rgb(255, 142, 114);
+    margin: 50px;
+}
+.sidebarform{
+    border: 2px solid;
+    
+}
+.buttoncreate{
+    background-color: rgb(76, 224, 179);
+    border: none;
+    border-radius: 5px;
+    margin: 20px;
+    height: 40px;
+    width: 80px;
+    font-size: 20px;
+}
+.textarea{
+    height: 150px;
+    width: 170px;
+    resize: none;
+}
+#title{
+    
+}
