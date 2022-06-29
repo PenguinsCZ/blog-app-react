@@ -1,4 +1,4 @@
-import { useState } from "react";
+import Sortbuttons from "./Sortbuttons";
 import "../Styles/postsstyles.css"
 function Posts(props) {
     
@@ -6,6 +6,7 @@ function Posts(props) {
     
     return ( 
     <div className="postholder">
+        <Sortbuttons/>
         {props.allposts}
     </div> 
     );

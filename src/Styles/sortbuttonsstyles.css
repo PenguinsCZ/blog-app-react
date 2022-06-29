@@ -1,0 +1,15 @@
+.sortbuttonsdiv{
+    height: 50px;
+    background-color: #FF8E72;
+    border-radius: 25px;
+    display: flex;
+}
+.buttonsort{
+    background-color: #ED6A5E;
+    border-radius: 15px;
+    width: 80px;
+    padding: 5px;
+    
+    display: flex;
+    align-items: center;
+}
